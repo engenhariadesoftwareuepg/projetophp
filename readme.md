@@ -1,6 +1,6 @@
-# Projeto Engenharia de Software NODE
+# Projeto Engenharia de Software PHP
 
-Exemplo de projeto utilizando Node.js.
+Exemplo de projeto utilizando PHP.
 
 Este exemplo é um aplicativo web que pode ser executado localmente assim como realizar o deploy em hosts de homologação/produção.
 *   Para o guia completo deste projeto acesse o arquivo README.md do repositório do [Projeto](https://github.com/engenhariadesoftwareuepg/projetophp).
