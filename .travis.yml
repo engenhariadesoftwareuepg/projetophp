@@ -17,6 +17,7 @@ deploy:
   on:
     branch: master
   strategy: git
-  run: "composer require ext-intl"
+  run: "composer update"
+  run: "composer install"
   run: "php artisan key:generate"
   run: "php artisan migrate"
