@@ -9,7 +9,7 @@ script:
   - php artisan migrate
   - vendor/bin/phpunit
 deploy:
-  all_branches: true
+  branch: master
   provider: heroku
   edge: true
   api-key: 
